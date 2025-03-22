@@ -1,0 +1,696 @@
+﻿1
+00:00:00,000 --> 00:00:00,500
+my name is Zach.
+
+2
+00:00:00,500 --> 00:00:02,833
+I work full time at a marketing agency.
+
+3
+00:00:02,833 --> 00:00:05,433
+At Bad Marketing,
+as a direct response copywriter.
+
+4
+00:00:05,666 --> 00:00:06,800
+I mostly do email copy,
+
+5
+00:00:06,800 --> 00:00:08,133
+but I do a little of in between
+
+6
+00:00:08,500 --> 00:00:10,033
+And then I have a couple of freelance
+
+7
+00:00:10,033 --> 00:00:11,866
+clients on the side as well. Awesome.
+
+8
+00:00:12,400 --> 00:00:13,300
+And what's been your
+
+9
+00:00:13,300 --> 00:00:14,800
+experience in Genesis so far?
+
+10
+00:00:15,600 --> 00:00:16,500
+My experience has been awesome.
+
+11
+00:00:16,500 --> 00:00:17,900
+Like, I've been in Genesis,
+
+12
+00:00:18,466 --> 00:00:20,366
+I think since, like, the first month
+you guys launched.
+
+13
+00:00:20,533 --> 00:00:22,433
+In between all the trainings
+
+14
+00:00:22,433 --> 00:00:23,866
+and the feedbacks,
+like, it's been incredible.
+
+15
+00:00:24,200 --> 00:00:25,566
+And with all the new AI stuff, it's
+
+16
+00:00:25,566 --> 00:00:28,500
+been awesome because balancing
+
+17
+00:00:28,500 --> 00:00:31,166
+the agency work with freelance clients
+and having all these bots makes
+
+18
+00:00:31,166 --> 00:00:33,700
+everything faster for me
+so I can get more work done in less time.
+
+19
+00:00:33,700 --> 00:00:35,566
+But it's still top quality work.
+
+20
+00:00:35,600 --> 00:00:37,033
+I just landed a new client,
+
+21
+00:00:37,566 --> 00:00:39,366
+a couple months ago,
+after going through, like,
+
+22
+00:00:39,366 --> 00:00:41,800
+a whole death match week by week
+kind of scenario,
+
+23
+00:00:42,166 --> 00:00:43,600
+using the bots to
+
+24
+00:00:43,600 --> 00:00:45,200
+to help me get a bunch of work
+done in less time.
+
+25
+00:00:45,533 --> 00:00:46,966
+And I think
+
+26
+00:00:46,966 --> 00:00:48,266
+the coolest thing for me is like,
+
+27
+00:00:48,866 --> 00:00:49,766
+no matter what
+
+28
+00:00:49,766 --> 00:00:52,366
+project I want to try and tackle,
+there's a plethora
+
+29
+00:00:52,366 --> 00:00:55,000
+of trainings
+or videos or bots at my disposal.
+
+30
+00:00:55,000 --> 00:00:56,466
+So even though I usually do email stuff,
+
+31
+00:00:56,733 --> 00:00:58,000
+if I want to get into VSL’s
+
+32
+00:00:58,000 --> 00:00:59,733
+or ads or advertorials or anything
+
+33
+00:00:59,733 --> 00:01:01,033
+in between like I've got,
+
+34
+00:01:01,066 --> 00:01:02,133
+you know, nearly
+
+35
+00:01:02,133 --> 00:01:03,566
+unlimited resources at my disposal.
+
+36
+00:01:04,233 --> 00:01:05,066
+Amazing.
+
+37
+00:01:05,166 --> 00:01:05,866
+And what has been
+
+38
+00:01:05,866 --> 00:01:08,366
+the most valuable part of Genesis?
+
+39
+00:01:08,966 --> 00:01:10,100
+I think when I first started,
+
+40
+00:01:10,100 --> 00:01:12,700
+the most valuable part
+was the feedback on my copy.
+
+41
+00:01:12,700 --> 00:01:14,066
+Like I'd be able to submit copy and stuff
+
+42
+00:01:14,066 --> 00:01:15,333
+like that.
+
+43
+00:01:15,700 --> 00:01:16,766
+Kind of ongoing.
+
+44
+00:01:16,766 --> 00:01:18,733
+It's just been like some of the core
+trainings you guys have done.
+
+45
+00:01:19,100 --> 00:01:21,000
+And like,
+there's still some that I go back to
+
+46
+00:01:21,233 --> 00:01:23,433
+and reference different frameworks
+or examples, like all the time.
+
+47
+00:01:23,733 --> 00:01:26,033
+And then most recently, for me,
+just with my workload
+
+48
+00:01:26,033 --> 00:01:27,866
+expanding, it's been all the AI bots.
+
+49
+00:01:28,366 --> 00:01:29,400
+nice
+
+50
+00:01:29,400 --> 00:01:31,433
+Do you have a favorite bot
+or workflow of bots
+
+51
+00:01:31,433 --> 00:01:32,733
+that you use?
+
+52
+00:01:33,300 --> 00:01:35,366
+I mostly use the click driver bot.
+
+53
+00:01:35,766 --> 00:01:38,266
+Because like one of my clients
+that I write for, it's very short,
+
+54
+00:01:38,266 --> 00:01:40,166
+punchy, like Clickbank style offers
+
+55
+00:01:40,366 --> 00:01:41,666
+and it works awesome.
+
+56
+00:01:41,766 --> 00:01:44,666
+Lately, I've used like the Mario
+and the Luke bot a lot just to like
+
+57
+00:01:45,333 --> 00:01:46,700
+as my own little marketing strategist
+
+58
+00:01:46,700 --> 00:01:48,700
+So like I'm trying to figure out how
+I want to organize something.
+
+59
+00:01:48,966 --> 00:01:50,000
+It's a really great resource
+
+60
+00:01:50,000 --> 00:01:52,266
+to go back and forth
+with someone like instantaneously.
+
+61
+00:01:52,533 --> 00:01:54,033
+So Amazing.
+
+62
+00:01:54,500 --> 00:01:55,600
+I don't know any, any results or anything
+
+63
+00:01:55,600 --> 00:01:56,900
+tangible that you able to do,
+
+64
+00:01:57,033 --> 00:01:58,033
+with Genesis, with the bots?
+
+65
+00:01:58,533 --> 00:01:58,666
+Yeah.
+
+66
+00:01:58,666 --> 00:02:01,333
+I mean, well, so through the agency job
+alone,
+
+67
+00:02:01,733 --> 00:02:03,833
+like between all my clients, I’ve generated
+
+68
+00:02:04,033 --> 00:02:05,333
+like seven figures in revenue,
+
+69
+00:02:05,333 --> 00:02:06,466
+which was like a big thing for me
+
+70
+00:02:06,466 --> 00:02:07,766
+because, like, now I call myself a seven
+
+71
+00:02:07,766 --> 00:02:09,066
+figure, you know, copywriter.
+
+72
+00:02:09,166 --> 00:02:10,633
+And all of that is basically
+
+73
+00:02:10,633 --> 00:02:11,933
+a byproduct of, like,
+
+74
+00:02:11,933 --> 00:02:13,733
+where I am now as a copywriter compared to
+
+75
+00:02:13,933 --> 00:02:15,033
+I think it was almost three years ago
+
+76
+00:02:15,033 --> 00:02:16,400
+that I joined,
+
+77
+00:02:16,400 --> 00:02:17,700
+it's like night and day difference.
+
+78
+00:02:17,800 --> 00:02:20,133
+And then being able to work with some of
+
+79
+00:02:20,133 --> 00:02:21,766
+the bigger named people in the industry
+
+80
+00:02:22,033 --> 00:02:23,333
+based on the merit of my copy is
+
+81
+00:02:23,733 --> 00:02:25,133
+is pretty cool. Awesome.
+
+82
+00:02:25,433 --> 00:02:26,533
+You were also able to win
+
+83
+00:02:26,533 --> 00:02:29,533
+a copywriting challenge as well.
+
+84
+00:02:29,566 --> 00:02:30,866
+Correct? Yeah.
+
+85
+00:02:30,866 --> 00:02:31,533
+Nice and what.
+
+86
+00:02:31,533 --> 00:02:32,666
+Yeah. What was that challenge?
+
+87
+00:02:32,666 --> 00:02:33,666
+So basically it was like
+
+88
+00:02:33,666 --> 00:02:35,033
+four weeks, and then every week
+
+89
+00:02:35,033 --> 00:02:36,400
+we had to write
+like a set number of emails.
+
+90
+00:02:36,400 --> 00:02:38,633
+And those emails
+kind of increased in terms of the amount.
+
+91
+00:02:38,833 --> 00:02:40,533
+and they were
+also for different offers.
+
+92
+00:02:40,533 --> 00:02:42,266
+So I was able to use
+like the copyblock stuff,
+
+93
+00:02:42,666 --> 00:02:44,033
+that you guys talk about
+
+94
+00:02:44,066 --> 00:02:45,333
+and the click driver’s emails
+
+95
+00:02:45,333 --> 00:02:47,133
+just to quickly get it done.
+
+96
+00:02:47,200 --> 00:02:48,833
+Because we had to get it done
+
+97
+00:02:48,833 --> 00:02:50,766
+from like Tuesday to Friday,
+I think was the timeframe.
+
+98
+00:02:51,933 --> 00:02:53,233
+And week over week.
+
+99
+00:02:53,500 --> 00:02:54,933
+Yeah. I just kept passing on
+and then I won.
+
+100
+00:02:55,233 --> 00:02:57,333
+And since then, I've written
+some pretty good bangers for them.
+
+101
+00:02:57,466 --> 00:02:58,700
+So that's awesome.
+
+102
+00:02:58,700 --> 00:03:00,766
+Yeah, that's such
+a huge accomplishment.
+
+103
+00:03:00,766 --> 00:03:02,233
+So I think you had a win
+every week, right?
+
+104
+00:03:02,266 --> 00:03:03,700
+You know, I had to like. Yeah.
+
+105
+00:03:03,700 --> 00:03:05,133
+It was like top emails move on.
+
+106
+00:03:05,133 --> 00:03:07,333
+So, like,
+I was chosen out of, like, 80 people
+
+107
+00:03:07,733 --> 00:03:08,900
+like to be in the final eight
+
+108
+00:03:08,900 --> 00:03:10,200
+or whatever to do this thing.
+
+109
+00:03:10,400 --> 00:03:11,933
+And then I was the
+the winner by the end of it.
+
+110
+00:03:12,300 --> 00:03:13,933
+That's awesome. Yeah, that's key.
+
+111
+00:03:14,166 --> 00:03:16,466
+And that's the thing that I see with AI
+and with the bots in general, is
+
+112
+00:03:16,466 --> 00:03:18,833
+It just amplifies
+whatever talent that you have
+
+113
+00:03:18,833 --> 00:03:20,300
+and allows you to do more at scale
+
+114
+00:03:20,300 --> 00:03:21,600
+and with more volume.
+
+115
+00:03:21,800 --> 00:03:22,833
+And go deeper with stuff.
+
+116
+00:03:22,833 --> 00:03:23,933
+That's been my experience at least.
+
+117
+00:03:23,933 --> 00:03:25,633
+So that's an awesome accomplishment.
+
+118
+00:03:26,133 --> 00:03:26,300
+Cool.
+
+119
+00:03:27,533 --> 00:03:30,233
+your experience just overall
+with the community, with the culture,
+
+120
+00:03:30,233 --> 00:03:32,900
+with the trainings inside of Genesis
+as compared with,
+
+121
+00:03:33,000 --> 00:03:34,466
+other trainings or other programs
+
+122
+00:03:35,433 --> 00:03:36,066
+the community is great.
+
+123
+00:03:36,133 --> 00:03:38,366
+I mean, and to be fair, like,
+I probably don't even interact in it
+
+124
+00:03:38,366 --> 00:03:40,133
+as much as I could
+and I would definitely
+
+125
+00:03:40,133 --> 00:03:41,433
+get more benefit from it.
+
+126
+00:03:41,466 --> 00:03:43,266
+the community is great,
+like between you and Mario
+
+127
+00:03:43,266 --> 00:03:44,666
+and then just everybody else in it
+
+128
+00:03:44,666 --> 00:03:46,166
+it's like a very supportive.
+
+129
+00:03:47,200 --> 00:03:47,800
+You know sometimes
+
+130
+00:03:47,800 --> 00:03:49,266
+like some of these other communities
+I've been in like
+
+131
+00:03:49,266 --> 00:03:51,766
+it feels a little cutthroat or like other
+people are trying to always pitch you
+
+132
+00:03:51,766 --> 00:03:53,900
+something or, I don’t know
+it doesn't seem as genuine.
+
+133
+00:03:54,566 --> 00:03:56,600
+But that hasn't been my experience
+with Genesis.
+
+134
+00:03:56,633 --> 00:03:57,766
+it's been pretty great.
+
+135
+00:03:57,766 --> 00:03:59,066
+And again, like, it's
+
+136
+00:03:59,066 --> 00:04:01,533
+another resource where
+I can go pose a question to the group.
+
+137
+00:04:01,700 --> 00:04:03,900
+And before you or Mario
+even have a chance to get to it,
+
+138
+00:04:04,166 --> 00:04:05,433
+like I'll have several other people,
+
+139
+00:04:05,766 --> 00:04:07,033
+you know, jumping in and
+
+140
+00:04:07,033 --> 00:04:08,900
+and dropping their thoughts
+and help and stuff.
+
+141
+00:04:09,500 --> 00:04:10,166
+Awesome.
+
+142
+00:04:10,166 --> 00:04:11,733
+I mean, and anything else
+
+143
+00:04:11,733 --> 00:04:13,266
+that you want to share
+about your experience
+
+144
+00:04:13,266 --> 00:04:14,566
+or you think would be helpful
+
+145
+00:04:14,800 --> 00:04:16,433
+for somebody
+who's considering joining Genesis?
+
+146
+00:04:16,933 --> 00:04:17,433
+I would do it.
+
+147
+00:04:17,433 --> 00:04:18,766
+I mean, whether you're a freelancer,
+
+148
+00:04:19,400 --> 00:04:20,966
+just kind of an all-around marketer,
+
+149
+00:04:20,966 --> 00:04:22,766
+or even if it's just your launching
+your own business.
+
+150
+00:04:23,333 --> 00:04:24,133
+Again, I've been a member
+
+151
+00:04:24,133 --> 00:04:25,433
+for almost three years.
+
+152
+00:04:25,433 --> 00:04:28,033
+I've never once considered canceling
+
+153
+00:04:28,066 --> 00:04:30,466
+My ROI has been infinite.
+
+154
+00:04:30,466 --> 00:04:32,766
+I mean, just landing the one gig for me
+kind of pays off
+
+155
+00:04:32,766 --> 00:04:34,466
+almost the entire three years
+in and of itself.
+
+156
+00:04:34,566 --> 00:04:37,100
+So, I think it's totally worth it.
+
+157
+00:04:37,433 --> 00:04:39,000
+Just the amount of guys,
+the amount of stuff
+
+158
+00:04:39,000 --> 00:04:40,300
+you guys put in there.
+
+159
+00:04:40,400 --> 00:04:42,633
+I can't imagine anybody interested in
+marketing would join it
+
+160
+00:04:42,633 --> 00:04:44,966
+and not be overwhelmed with,
+
+161
+00:04:45,266 --> 00:04:46,566
+you know, opportunities.
